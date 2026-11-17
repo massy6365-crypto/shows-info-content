@@ -1,4 +1,13 @@
 {
  "updated": "2026-11-17",
- "entries": []
+ "entries": [
+  {"release_date": "2026-11-02", "maker": "トヨタ", "model": "RAV4", "change": "一部改良", "price": "リリースに記載なし", "source_url": "https://global.toyota/jp/newsroom/toyota/44936457.html"},
+  {"release_date": "2026-11-05", "maker": "日産", "model": "セレナ", "change": "一部仕様変更・特別仕様車「Black Edition」設定", "price": "278万9,600円〜479万7,100円", "source_url": "https://global.nissannews.com/ja-JP/releases/261105-01-j"},
+  {"release_date": "2026-11-16", "maker": "トヨタ", "model": "ライズ", "change": "一部改良・特別仕様車 Z“POWERFUL”設定", "price": "リリースに記載なし", "source_url": "https://global.toyota/jp/newsroom/toyota/44986493.html"},
+  {"release_date": "2026-11-16", "maker": "スズキ", "model": "e SKY", "change": "新型（軽乗用EV）", "price": "212万円〜279万円", "source_url": "https://www.suzuki.co.jp/release/a/2026/1006/"},
+  {"release_date": "2026-12-17", "maker": "三菱", "model": "パジェロ", "change": "新型", "price": "619万3,000円〜795万800円", "source_url": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20261029_1.html"},
+  {"release_date": "2027-01-06", "maker": "トヨタ", "model": "RAV4 プラグインハイブリッド車", "change": "一部改良", "price": "リリースに記載なし", "source_url": "https://global.toyota/jp/newsroom/toyota/44936457.html"},
+  {"release_date": "発売日未発表（2026-11-19 注文受付開始）", "maker": "スバル", "model": "WRX STI Sport R（6速MT）", "change": "新グレード追加", "price": "548万円", "source_url": "https://www.subaru.co.jp/news/2026_11_14_151343/"},
+  {"release_date": "", "maker": "スズキ", "model": "スペーシア ベース", "change": "新型（軽商用車）・先行情報公開", "price": "", "source_url": "https://www.suzuki.co.jp/release/a/2026/1109/"}
+ ]
 }
