@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "entries": [
   {"release_date": "2026-11-02", "maker": "トヨタ", "model": "RAV4", "change": "一部改良", "price": "リリースに記載なし", "source_url": "https://global.toyota/jp/newsroom/toyota/44936457.html"},
   {"release_date": "2026-11-05", "maker": "日産", "model": "セレナ", "change": "一部仕様変更・特別仕様車「Black Edition」設定", "price": "278万9,600円〜479万7,100円", "source_url": "https://global.nissannews.com/ja-JP/releases/261105-01-j"},
@@ -8,6 +8,10 @@
   {"release_date": "2026-12-17", "maker": "三菱", "model": "パジェロ", "change": "新型", "price": "619万3,000円〜795万800円", "source_url": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20261029_1.html"},
   {"release_date": "2027-01-06", "maker": "トヨタ", "model": "RAV4 プラグインハイブリッド車", "change": "一部改良", "price": "リリースに記載なし", "source_url": "https://global.toyota/jp/newsroom/toyota/44936457.html"},
   {"release_date": "発売日未発表（2026-11-19 注文受付開始）", "maker": "スバル", "model": "WRX STI Sport R（6速MT）", "change": "新グレード追加", "price": "548万円", "source_url": "https://www.subaru.co.jp/news/2026_11_14_151343/"},
-  {"release_date": "", "maker": "スズキ", "model": "スペーシア ベース", "change": "新型（軽商用車）・先行情報公開", "price": "", "source_url": "https://www.suzuki.co.jp/release/a/2026/1109/"}
+  {"release_date": "", "maker": "スズキ", "model": "スペーシア ベース", "change": "新型（軽商用車）・先行情報公開", "price": "", "source_url": "https://www.suzuki.co.jp/release/a/2026/1109/"},
+  {"release_date": "2026-11-02", "maker": "ダイハツ", "model": "ハイゼット カーゴ／アトレー（e-ハイゼット カーゴ／e-アトレー含む）", "change": "一部改良（燃費向上）", "price": "リリースに記載なし", "source_url": "https://www.daihatsu.com/jp/news/2026/20261102-1.html"},
+  {"release_date": "2026-11-03", "maker": "レクサス", "model": "LBX", "change": "一部改良", "price": "445万円〜593万円", "source_url": "https://global.toyota/jp/newsroom/lexus/44911793.html"},
+  {"release_date": "発売日未発表（2026-11-05 発表）", "maker": "スバル", "model": "サンバーバン", "change": "一部改良（燃費向上）", "price": "115万5,000円〜206万8,000円", "source_url": "https://www.subaru.co.jp/news/2026_11_05_170900/"},
+  {"release_date": "2026-冬（予定）", "maker": "トヨタ", "model": "タンドラ", "change": "日本導入予定（米国で一部改良を発表したモデル）", "price": "未発表", "source_url": "https://global.toyota/jp/newsroom/toyota/44960600.html"}
  ]
 }
