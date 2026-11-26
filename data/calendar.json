@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "entries": [
   {"release_date": "2026-11-02", "maker": "トヨタ", "model": "RAV4", "change": "一部改良", "price": "リリースに記載なし", "source_url": "https://global.toyota/jp/newsroom/toyota/44936457.html"},
   {"release_date": "2026-11-05", "maker": "日産", "model": "セレナ", "change": "一部仕様変更・特別仕様車「Black Edition」設定", "price": "278万9,600円〜479万7,100円", "source_url": "https://global.nissannews.com/ja-JP/releases/261105-01-j"},
@@ -22,6 +22,8 @@
   {"release_date": "発売日未発表（2026-11-20 世界初公開）", "maker": "ホンダ", "model": "AVANCIER（アヴァンシア）", "change": "新型（3列SUV・日本などアジアで順次発売予定）", "price": "未発表", "source_url": "https://global.honda/jp/news/2026/4261120.html"},
   {"release_date": "発売日未発表（2026-11-19 発表・11-29まで抽選申込）", "maker": "スバル", "model": "アセント（150台限定・左ハンドル）", "change": "日本導入（米国生産の3列SUV）", "price": "770万円", "source_url": "https://www.subaru.co.jp/news/2026_11_19_153939/"},
   {"release_date": "2026-12-23", "maker": "トヨタ", "model": "カムリ", "change": "新型（米国ケンタッキー工場製）", "price": "リリースに記載なし", "source_url": "https://global.toyota/jp/newsroom/toyota/44987379.html"},
-  {"release_date": "2026-10-23", "maker": "ホンダ", "model": "ヴェゼル", "change": "マイナーモデルチェンジ", "price": "277万7,500円〜388万5,200円", "source_url": "https://global.honda/jp/news/2026/4261022-vezel.html"}
+  {"release_date": "2026-10-23", "maker": "ホンダ", "model": "ヴェゼル", "change": "マイナーモデルチェンジ", "price": "277万7,500円〜388万5,200円", "source_url": "https://global.honda/jp/news/2026/4261022-vezel.html"},
+  {"release_date": "2026-12-07", "maker": "レクサス", "model": "NX", "change": "新型モデル（ハイブリッドシステム一新・内外装刷新）", "price": "700万円〜860万円", "source_url": "https://global.toyota/jp/newsroom/lexus/45018508.html"},
+  {"release_date": "2027年から生産予定（2026-11-26 正式発表）", "maker": "光岡自動車", "model": "LA1", "change": "新型（2人乗りFR・2027〜2028年で計200台生産予定）", "price": "649万円〜683万1,000円", "source_url": "https://www.mitsuoka-motor.com/lineup/la1/"}
  ]
 }
