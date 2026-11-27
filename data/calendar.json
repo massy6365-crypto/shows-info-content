@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "entries": [
   {"release_date": "2026-11-02", "maker": "トヨタ", "model": "RAV4", "change": "一部改良", "price": "リリースに記載なし", "source_url": "https://global.toyota/jp/newsroom/toyota/44936457.html"},
   {"release_date": "2026-11-05", "maker": "日産", "model": "セレナ", "change": "一部仕様変更・特別仕様車「Black Edition」設定", "price": "278万9,600円〜479万7,100円", "source_url": "https://global.nissannews.com/ja-JP/releases/261105-01-j"},
@@ -24,6 +24,8 @@
   {"release_date": "2026-12-23", "maker": "トヨタ", "model": "カムリ", "change": "新型（米国ケンタッキー工場製）", "price": "リリースに記載なし", "source_url": "https://global.toyota/jp/newsroom/toyota/44987379.html"},
   {"release_date": "2026-10-23", "maker": "ホンダ", "model": "ヴェゼル", "change": "マイナーモデルチェンジ", "price": "277万7,500円〜388万5,200円", "source_url": "https://global.honda/jp/news/2026/4261022-vezel.html"},
   {"release_date": "2026-12-07", "maker": "レクサス", "model": "NX", "change": "新型モデル（ハイブリッドシステム一新・内外装刷新）", "price": "700万円〜860万円", "source_url": "https://global.toyota/jp/newsroom/lexus/45018508.html"},
-  {"release_date": "2027年から生産予定（2026-11-26 正式発表）", "maker": "光岡自動車", "model": "LA1", "change": "新型（2人乗りFR・2027〜2028年で計200台生産予定）", "price": "649万円〜683万1,000円", "source_url": "https://www.mitsuoka-motor.com/lineup/la1/"}
+  {"release_date": "2027年から生産予定（2026-11-26 正式発表）", "maker": "光岡自動車", "model": "LA1", "change": "新型（2人乗りFR・2027〜2028年で計200台生産予定）", "price": "649万円〜683万1,000円", "source_url": "https://www.mitsuoka-motor.com/lineup/la1/"},
+  {"release_date": "2026-11-19", "maker": "三菱", "model": "デリカD:5 CHAMONIX（シャモニー）", "change": "特別仕様車", "price": "501万500円", "source_url": "https://www.mitsubishi-motors.com/jp/newsroom/newsrelease/2026/20261119_1.html"},
+  {"release_date": "2026-12-18", "maker": "ホンダ", "model": "Acura INTEGRA Type S", "change": "日本導入（米国生産・250台限定）", "price": "899万8,000円", "source_url": "https://global.honda/jp/news/2026/4261126-integra.html"}
  ]
 }
